@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--paolom-bankofamerica-130325-2--aemdemos.aem.live/
-- After: https://<branch>--paolom-bankofamerica-130325-2--aemdemos.aem.live/
+- After: https://main--paolom-bankofamerica-130325-2--aemdemos.aem.live/
